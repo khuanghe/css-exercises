@@ -4,6 +4,15 @@ p {
 
 }
 
-.class {
+.special {
     font-size: 24px;
+}
+.two {
+    color:#1100ff;
+    font-size: 36px;
+}
+.four {
+    font-size: 24px;
+    font-weight: bold;
+    color: #90ee90;
 }
